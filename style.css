@@ -98,3 +98,7 @@ h1 {
     background: #e60000;
 }
 
+.task.completed h6 {
+    text-decoration: line-through;
+    color: #888;
+}
